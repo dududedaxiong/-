@@ -10,7 +10,6 @@
    "nbfjhertyrxiang",
    "sekihfde",
    "sysybf",
-   "lsbbf2"
    "super.ffzy",
    "fhbbff"
   ],
@@ -80,6 +79,15 @@
    "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
    "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+  ]
+ },
+ {
+  "hosts":[
+   "lsbbf2"
+  ],
+  "name":"随便",
+  "regex":[
+   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
   ]
  },
  {
