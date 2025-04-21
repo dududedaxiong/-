@@ -72,7 +72,8 @@
    "bfzy",
    "ddbbffcdn",
    "rrcdnbf",
-   "bbffvip"
+   "bbffvip",
+   "7bbffvip"
   ],
   "name":"暴風",
   "regex":[
@@ -90,7 +91,8 @@
    "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
   ]
  },
- {
+
+  {
   "hosts":[
    "aws.ulivetv.net"
   ],
