@@ -10,7 +10,7 @@
    "nbfjhertyrxiang",
    "sekihfde",
    "super.ffzy",
-    "fhbbff"
+   "fhbbff"
   ],
   "name":"量非",
   "regex":[
