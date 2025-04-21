@@ -9,7 +9,8 @@
    "cdn-vipvideo",
    "nbfjhertyrxiang",
    "sekihfde",
-   "super.ffzy"
+   "super.ffzy",
+    "fhbbff"
   ],
   "name":"量非",
   "regex":[
