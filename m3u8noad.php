@@ -11,7 +11,8 @@
    "sekihfde",
    "sysybf",
    "super.ffzy",
-   "fhbbff"
+   "fhbbff",
+   "vvip"
   ],
   "name":"量非",
   "regex":[
@@ -73,7 +74,8 @@
    "ddbbffcdn",
    "rrcdnbf",
    "bbffvip",
-   "7bbffvip"
+   "7bbffvip",
+   "bvvvvvvv7f"
   ],
   "name":"暴風",
   "regex":[
@@ -85,11 +87,14 @@
  {
   "hosts":[
    "lsbbf2",
-   "97img"
+   "97img",
+   "vvip",
+   ".vip"
   ],
   "name":"随便",
   "regex":[
    "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+   "#EXT-X-KEY:METHOD=AES[\\s\\S]*?#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
    "#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY"
    ]
  },
