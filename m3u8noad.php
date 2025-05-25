@@ -23,6 +23,14 @@
    "17.99",
    "14.45",
    "17.19",
+  "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
+			"#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",
+			"#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
+			"#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
+			"#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
+			"#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
+			"#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+			"#EXTINF.*?\\s+.*a241.*?\\.ts\\s+",
    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
    "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
@@ -89,9 +97,10 @@
    "lsbbf2",
    "97img",
    "vvip",
-   ".vip"
+   ".vip",
+   "thm3u8"
   ],
-  "name":"随便",
+  "name":"去你的广告",
   "regex":[
    "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
    "#EXT-X-KEY:METHOD=AES[\\s\\S]*?#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -120,7 +129,10 @@
   "regex":[
    "#EXTINF.*?\\s+.*?aaaa.*?\\.ts\\s+",
    "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-   "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3\\.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+   "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3\\.333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
   ]
  },
  {
