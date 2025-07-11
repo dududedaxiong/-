@@ -9,7 +9,6 @@
    "cdn-vipvideo",
    "nbfjhertyrxiang",
    "sekihfde",
-   "sysybf",
    "super.ffzy",
    "fhbbff",
    "vvip"
@@ -98,13 +97,13 @@
    "97img",
    "vvip",
    ".vip",
-   "thm3u8"
+   "thm3u8",
+   "vostrely"
   ],
   "name":"去你的广告",
   "regex":[
    "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-   "#EXT-X-KEY:METHOD=AES[\\s\\S]*?#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-   "#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+  "#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY"
    ]
  },
 
@@ -115,6 +114,17 @@
   "name":"星星",
   "regex":[
    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+  ]
+ },
+   {
+  "hosts":[
+   "ryplay",
+   "sysybf"
+  ],
+  "name":"猎手短剧",
+  "regex":[
+   "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:5.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+    "#EXTINF:4.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"
   ]
  },
  {
