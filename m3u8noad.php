@@ -128,6 +128,15 @@
     "#EXTINF:4.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"
   ]
  },
+   {
+  "hosts":[
+   "modujx"
+  ],
+  "name":"魔都短剧",
+  "regex":[
+   "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXTINF:3.333[\\s\\S]*?#EXTINF:3.2[\\s\\S]*?ts"
+  ]
+ },
   {
   "hosts":[
    "fqm3u8"
