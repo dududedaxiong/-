@@ -134,7 +134,7 @@
   ],
   "name":"fq去插",
   "regex":[
-   "#EXT-X-KEY:METHOD=AES-128\r*\n*#EXTINF:3,[\\s\\S]*?GcS4RzMZ*?#EXT-X-DISCONTINUITY"
+   "#EXT-X-KEY:METHOD=AES-128[\\s\\S]*?#EXTINF:3[\\s\\S]*GcS4RzMZ[\\s\\S]*?#EXT-X-DISCONTINUITY"
    
   ]
   
