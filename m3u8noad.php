@@ -98,7 +98,8 @@
    "vvip",
    ".vip",
    "thm3u8",
-   "vostrely"
+   "vostrely",
+   "askzybf"
   ],
   "name":"去你的广告",
   "regex":[
@@ -126,6 +127,30 @@
    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:5.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
     "#EXTINF:4.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"
   ]
+ },
+  {
+  "hosts":[
+   "fqm3u8"
+  ],
+  "name":"fq去插",
+  "regex":[
+   "#EXT-X-KEY:METHOD=AES-128\r*\n*#EXTINF:3,[\\s\\S]*?GcS4RzMZ*?#EXT-X-DISCONTINUITY"
+   
+  ]
+  
+
+ },
+   {
+  "hosts":[
+   "55p"
+  ],
+  "name":"55p去插",
+  "regex":[
+   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:4.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+   
+  ]
+  
+
  },
  {
   "hosts":[
