@@ -159,6 +159,18 @@
  },
    {
   "hosts":[
+   "ffzy-play"
+  ],
+  "name":"ffzy",
+  "regex":[
+   "#EXTINF.*?66667[\\s\\S]*?ts"
+   
+  ]
+  
+
+ },
+   {
+  "hosts":[
    "55p"
   ],
   "name":"55p去插",
