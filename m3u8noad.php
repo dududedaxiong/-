@@ -171,7 +171,8 @@
  },
     {
   "hosts":[
-   "seu6tu"
+   "seu6tu",
+   "535fs"
   ],
   "name":"熊猫视频",
   "regex":[
