@@ -182,6 +182,19 @@
   
 
  },
+     {
+  "hosts":[
+   "phncdn"
+  ],
+  "name":"pronhub",
+  "regex":[
+   "seg-1-v1-a1.ts[\\s\\S]*?seg-2-v1-a1.ts[\\s\\S]*?#EXTINF:.*?,"
+   
+  ]
+  
+
+ },
+  
    {
   "hosts":[
    "55p"
