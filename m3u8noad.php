@@ -169,6 +169,18 @@
   
 
  },
+    {
+  "hosts":[
+   "seu6tu"
+  ],
+  "name":"熊猫视频",
+  "regex":[
+   "#EXTINF:[\\s\\S]*?encrypt0005.ts"
+   
+  ]
+  
+
+ },
    {
   "hosts":[
    "55p"
