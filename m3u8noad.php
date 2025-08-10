@@ -92,12 +92,10 @@
  },
  {
   "hosts":[
-   "lsbbf2",
+  
    "97img",
    "vvip",
-   ".vip",
    "thm3u8",
-   "vostrely",
    "askzybf"
   ],
   "name":"去你的广告",
@@ -216,7 +214,15 @@
     "lbbf",
     "bfbfhao",
     "ddyunbo",
-    "bfaskbwerve"
+    "bfaskbwerve",
+    "lsbbf",
+    "lbv3lb",
+    "sybf",
+    "qrtuv",
+    "vostrely",
+    "thm3u8.vip",
+    "newljlj.com",
+    ".slslvip"
   ],
   "name":"jkunnzyx",
   
@@ -225,7 +231,8 @@
    "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3.333,[\\s\\S]*\\.ts"
      "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
    "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3,[\\s\\S]*\\.ts",
-   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,.*?ts"
    
    
   ]
