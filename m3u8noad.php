@@ -232,7 +232,8 @@
      "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
    "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3,[\\s\\S]*\\.ts",
    "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,.*?ts"
+   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,.*?ts",
+   "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:2,[\\s\\S]*?#EXT-X-DISCONTINUITY"
    
    
   ]
