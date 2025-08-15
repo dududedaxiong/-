@@ -194,6 +194,19 @@
   
 
  },
+      {
+  "hosts":[
+   "aiwuci"
+  ],
+  "name":"aiwuci",
+  "regex":[
+   "#EXTINF:4.033[\\s\\S]*?.ts",
+   "#EXTINF:3[\\s\\S]*?W9K.ts"
+   
+  ]
+  
+
+ },
   
    {
   "hosts":[
@@ -228,7 +241,7 @@
   
   "regex":[
   "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3\\.333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-   "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3.333,[\\s\\S]*\\.ts"
+   "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3.333,[\\s\\S]*\\.ts",
      "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
    "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3,[\\s\\S]*\\.ts",
    "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
