@@ -145,6 +145,15 @@
    "#EXTINF:6.66[\\s\\S]*?#EXT-X-DISCONTINUITY"
   ]
  },
+    {
+  "hosts":[
+   "g2d22kf"
+  ],
+  "name":"G点",
+  "regex":[
+   "13.466667[\\s\\S]*?#EXTINF:"  
+  ]
+ },
   {
   "hosts":[
    "fqm3u8"
@@ -172,7 +181,8 @@
     {
   "hosts":[
    "seu6tu",
-   "535fs"
+   "535fs",
+   "dzlndygh"
   ],
   "name":"熊猫视频",
   "regex":[
@@ -235,7 +245,8 @@
     "vostrely",
     "thm3u8.vip",
     "newljlj.com",
-    ".slslvip"
+    ".slslvip",
+    "jpxm3u8"
   ],
   "name":"jkunnzyx",
   
