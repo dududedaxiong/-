@@ -145,15 +145,7 @@
    "#EXTINF:6.66[\\s\\S]*?#EXT-X-DISCONTINUITY"
   ]
  },
-    {
-  "hosts":[
-   "g2d22kf"
-  ],
-  "name":"G点",
-  "regex":[
-   "13.466667[\\s\\S]*?#EXTINF:"  
-  ]
- },
+
   {
   "hosts":[
    "fqm3u8"
