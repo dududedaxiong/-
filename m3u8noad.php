@@ -45,6 +45,7 @@
    "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
   ]
  },
+
  {
   "hosts":[
    "haiwaikan"
@@ -114,6 +115,15 @@
   "name":"星星",
   "regex":[
    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+  ]
+ },
+   {
+  "hosts":[
+   "mzm3u8"
+  ],
+  "name":"mozhua",
+  "regex":[
+   "#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-KEY:METHOD=AES-128[\\s\\S]*?#EXT-X-DISCONTINUITY[\\s\\S]*?0x00000000000000000000000000000000"
   ]
  },
    {
