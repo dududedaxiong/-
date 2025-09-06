@@ -76,6 +76,16 @@
  },
  {
   "hosts":[
+   "vip.ffzy"
+  ],
+  "name":"ffzy",
+  "regex":[
+   "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:.*?6667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+
+  ]
+ },
+ {
+  "hosts":[
    "bfengbf.com",
    "bfzy",
    "ddbbffcdn",
