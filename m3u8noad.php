@@ -84,6 +84,16 @@
 
   ]
  },
+  {
+  "hosts":[
+   "bwzm3u8.com"
+  ],
+  "name":"bwzm3u8",
+  "regex":[
+   "#EXT-X-KEY:METHOD=AES-128\r*\n*[\\s\\S]*?#EXTINF:1.28,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+
+  ]
+ },
  {
   "hosts":[
    "bfengbf.com",
