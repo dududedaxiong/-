@@ -204,7 +204,8 @@
   "hosts":[
    "seu6tu",
    "535fs",
-   "dzlndygh"
+   "dzlndygh",
+   "hdvjl"
   ],
   "name":"熊猫视频",
   "regex":[
