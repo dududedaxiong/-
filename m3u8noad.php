@@ -254,6 +254,18 @@
  },
     {
   "hosts":[
+   "bwzyplay.com"
+  ],
+  "name":"bwzyplay",
+  "regex":[
+   "#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY"
+   
+  ]
+  
+
+ },
+    {
+  "hosts":[
    "jkunnzyx",
     "bbffvip",
     "lbbf",
