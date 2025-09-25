@@ -265,6 +265,17 @@
   
 
  },
+     {
+  "hosts":[
+   "yutubf"
+  ],
+  "name":"yutubf",
+  "regex":[
+     "#EXT-X-KEY:METHOD=NONE\r*\n*[\\s\\S]*?#EXT-X-DISCONTINUITY",
+  ]
+  
+
+ },
     {
   "hosts":[
    "jkunnzyx",
