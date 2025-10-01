@@ -121,6 +121,7 @@
   ],
   "name":"去你的广告",
   "regex":[
+  "#EXT-X-KEY:METHOD=AES-128,URI=.*?700k[\\s\\S]*?#EXT-X-DISCONTINUITY",
    "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
   "#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
   "#EXT-X-KEY:METHOD=AES-128,URI=.*?\r*\n*#EXTINF:3\\.333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
