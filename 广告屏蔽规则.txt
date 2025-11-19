@@ -1,0 +1,75 @@
+##div.wrap.henggg
+||hajy161.xn--0xvn9f2sav0x.xn--fiqs8s^
+||1723219489000d8c3b3880e9a7bcgcc.28t1ya.cn:8005^
+||gvbp95503.xn--oqq15c66b1xek8osr7a6b9c.xn--55qx5d/js/app.db9ffb81.js
+#shang&&.grid-box-s22,0
+##div.footer
+##div.grid-box-s22
+##dl > dt.preview-item > a > img.nature[src*='.gif']
+##div.copy
+##dl#popBox
+##div[style="background:transparent;letter-spacing: 1px;font-size: 20px;font-weight: 800;margin-top:20px; "]
+##div.tcdknr
+##div.p-screen-dialog
+##a[referrerpolicy="no-referrer"]
+##div#nav_cat
+##div.list-header > div.right
+##div#abk-swiper0
+##div[aria-live="off"]
+##div.swiper-slide.swiper-slide-visible.swiper-slide-active
+##div.grid.grid-cols-3.gap-1
+##div.xxlaink
+##div#popup0
+##div[class="popup popup-abk popup-center"]
+##div[class="popup-overlay"]
+##div.notice
+##div#popup-overlay1
+##p.translate_line
+##div.btn-text
+##div.launch-app-btn.m-nav-openapp
+##div.m-video2-float-openapp
+|https://m.bilibili.com##div.container
+##div.launch-app-btn.m-video-main-launchapp.visible-open-app-btn.natural-margin
+##div.container > div.btn-text
+##div#page-copyright
+##div[style="position: fixed; bottom: 0px; left: 0px; z-index: 300; width: 100%; height: 52px; background: rgb(255, 255, 255); opacity: 1; border-top: 1px solid rgb(224, 224, 224); display: flex;"]
+##div.row > div.stui-foot.clearfix
+##img[src*='www.pfkgl.top']
+##img[src*='www.tqhza.top']
+##img[src*='imgs.imgclh.com']
+##img[src*='imgsrc.baidu.com']
+##div.vod-toolbar-block.flex.space-around
+##a.nav-link.nav-notice > span
+##div.card.comment-container
+##div.footer-container
+##div.card.vod-download
+##div.vod-share
+##div#app > div.list-container.container > div.list-title > div.flex.align-center > span.title
+##a#btn_close
+##div.0&&a,32
+##a#btn_close
+##a.tupian
+##div.gonggao
+##div.qq
+##a.stui-vodlist__thumb.lazyload[style$='gif");']
+|##div[style=" max-width:990px; margin:0 auto;"]
+|https://**?ad_sign=square&page_no=**&page_size=**
+|http**ad_sign=carousel**&page_size=**
+##uni-view.text-adv-list
+|https://**?ad_sign=pop-ad&page**&**
+##uni-view.tabbar-list
+##div.relative
+##uni-view.u-notice__content
+|https://r.1dgfdw.com/**
+|https://5678play.com/**08c08p08v.js
+|https://**.ap-shanghai.myqcloud.com/**
+|https://www.googletagmanager.com/gtag/js?id=**
+|https://**?ad_sign=pop-ad&page**&**
+|https://**/wivwrr.jsp?g=**
+|https://**/prxzys.jsp?g=**
+|https://**/**_**08v.js
+|https://**play.com/**_**v.js
+##uni-view.tabbar-list
+##div.relative
+##uni-view.u-notice__content
+##div.relative
