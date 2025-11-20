@@ -155,3 +155,6 @@
 ##uni-view.u-notice__content
 |https://www.**play.com/**v.js
 |https://www.**play.com/**z.js
+|https://**.huadu**.com##div.col-lg-1.col-xs-1.padding-0
+|https://**.huadu**.com##div.stui-pannel__head.active.bottom-line.clearfix
+|https://**.huadu**.com##div.stui-foot.clearfix
