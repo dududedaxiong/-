@@ -153,3 +153,5 @@
 ##uni-view.tabbar-list
 ##div.relative
 ##uni-view.u-notice__content
+|https://www.**play.com/**v.js
+|https://www.**play.com/**z.js
