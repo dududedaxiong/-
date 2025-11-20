@@ -162,3 +162,8 @@
 |https://**.91short.com##div.player-info
 |https://**.91short.com/**/adf**.js?v=**
 |https://**.91short.com##span[style="color: gold"]
+|https://**/**/tongji.js
+|https://**/matomo/matomo.js
+|https://gx**.xyz##div[style="margin-top: 10px;width: 100%;margin-bottom:10px;"]
+|https://gx**.xyz##div.stui-pannel_ft.col-pd
+|https://gx**.xyz##div.resou-div-content
