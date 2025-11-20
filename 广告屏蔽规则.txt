@@ -158,3 +158,7 @@
 |https://**.huadu**.com##div.col-lg-1.col-xs-1.padding-0
 |https://**.huadu**.com##div.stui-pannel__head.active.bottom-line.clearfix
 |https://**.huadu**.com##div.stui-foot.clearfix
+|https://**.91short.com##div.mda
+|https://**.91short.com##div.player-info
+|https://**.91short.com/**/adf**.js?v=**
+|https://**.91short.com##span[style="color: gold"]
