@@ -179,3 +179,4 @@
 |https://**.xdcue.**/**/nowx4.json
 |https://noodlemagazine.com##div[style="max-width:450px;margin:15px auto 0"]
 ##uni-view.header-avatar
+##img[click_area="pic_url"]
