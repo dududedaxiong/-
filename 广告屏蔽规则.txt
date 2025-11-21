@@ -172,3 +172,8 @@
 ##div.links
 ##div[style="margin:10px 0"]
 |**.jsp?g=**
+|https://**/fetchLink**
+|**/fetchLink
+|https://mc.yandex.com/**
+|https://bbcbba.sasgdrh.live:8891/vj4/11453
+|https://**.xdcue.**/**/nowx4.json
