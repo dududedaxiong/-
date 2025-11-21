@@ -167,3 +167,8 @@
 |https://gx**.xyz##div[style="margin-top: 10px;width: 100%;margin-bottom:10px;"]
 |https://gx**.xyz##div.stui-pannel_ft.col-pd
 |https://gx**.xyz##div.resou-div-content
+|https://**.pp**.xyz/**v.js
+##div.app
+##div.links
+##div[style="margin:10px 0"]
+|**.jsp?g=**
