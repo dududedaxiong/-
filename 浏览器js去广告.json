@@ -1,0 +1,20 @@
+{
+    "*": {
+        "keywords": [],
+        "classes": [],
+        "selectors": []
+    }
+}"*": {  // 通用规则（域名留空时追加到这里）
+            keywords: [
+],
+            classes: [],
+            selectors: []
+        },
+        "cn2.91short.com": {  // 其他域名规则会自动追加在这里
+            keywords: [
+                { selector: "a > span.van-tab__text", keywords: ["一键脱衣", "催情春药", "同城约炮", "推荐"] }
+            ],
+            classes: [],
+            selectors: ['span[style="color: gold"]']
+        }
+    }
