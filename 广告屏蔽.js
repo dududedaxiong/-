@@ -24,7 +24,7 @@
         },
          {
             selector: 'li > a',
-            keywords: ["会员"]
+            keywords: ["免费VPN下载"]
         }
   
    
@@ -45,6 +45,7 @@
         "uni-view.tabbar-list",
         'div[style="z-index: 2001;"]',
         "div.uni-swiper-slides",
+        "i.icon.iconfont.icon-account"
 
 
 
