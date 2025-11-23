@@ -180,3 +180,5 @@
 |https://noodlemagazine.com##div[style="max-width:450px;margin:15px auto 0"]
 ##uni-view.header-avatar
 ##img[click_area="pic_url"]
+|https://**huadu**.com##i.icon.iconfont.icon-account
+|https://**hdys**.com##i.icon.iconfont.icon-account
