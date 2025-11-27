@@ -94,6 +94,16 @@
 
   ]
  },
+  {
+  "hosts":[
+   "xibaom"
+  ],
+  "name":"xibaom",
+  "regex":[
+   "#EXTINF:[\\s\\S]*?\/ad.*?\\.ts\n#EXT-X-DISCONTINUITY"
+
+  ]
+ },
  {
   "hosts":[
    "bfengbf.com",
