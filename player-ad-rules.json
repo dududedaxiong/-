@@ -204,14 +204,14 @@
         ]
     },
     {
+        "name": "香蕉视频·终极核平",
         "hosts": [
             "xibaom",
             "xibaom3",
             "xibaom3.top"
         ],
-        "name": "香蕉视频·终极核平",
         "regex": [
-            "\/#EXT-X-DISCONTINUITY[\\s\\S]*?ad00[\\s\\S]*?#EXT-X-DISCONTINUITY\/im"
+            "#EXT-X-DISCONTINUITY[\\s\\S]*?ad[\\s\\S]*?#EXT-X-DISCONTINUITY"
         ]
     },
     {
