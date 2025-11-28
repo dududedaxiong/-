@@ -1,0 +1,8 @@
+{
+    "*": {
+        "keywords": [],
+        "classes": [],
+        "selectors": [],
+        "idsToHide": []
+    }
+}
