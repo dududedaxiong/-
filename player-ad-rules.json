@@ -210,7 +210,7 @@
             "xibaom3.top"
         ],
         "regex": [
-            "#EXT-X-DISCONTINUITY[\\s\\S]*?ad[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            "#EXT-X-DISCONTINUITY[\\s\\S]*?ad.*?\\.ts"
         ]
     },
     {
