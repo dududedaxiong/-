@@ -41,6 +41,18 @@
     },
     {
         "hosts": [
+            "suonizy"
+        ],
+        "name": "索尼",
+        "regex": [
+            "15.1666",
+            "15.2666",
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\\\680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+        ]
+    },
+    {
+        "hosts": [
             "haiwaikan"
         ],
         "name": "海外看",
@@ -53,18 +65,6 @@
             "12.33",
             "16.0599",
             "10.0099"
-        ]
-    },
-    {
-        "hosts": [
-            "suonizy"
-        ],
-        "name": "索尼",
-        "regex": [
-            "15.1666",
-            "15.2666",
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\\\680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
         ]
     },
     {
