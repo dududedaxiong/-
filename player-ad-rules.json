@@ -6,7 +6,7 @@
             "l6t0k.top"
         ],
         "regex": [
-            "(#EXTINF.*?\\n.*?\\n){8}"
+            "(#EXTINF:[^\\n]*\\nhttps:[^\\n]*\\n){8}"
         ]
     },
     {
