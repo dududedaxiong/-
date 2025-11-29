@@ -1,5 +1,14 @@
 [
     {
+        "name": "16t0k.top",
+        "hosts": [
+            "16t0k.top"
+        ],
+        "regex": [
+            "(#EXTINF:[^\\n]*\\nhttps:[^\\n]*\\n){8}"
+        ]
+    },
+    {
         "hosts": [
             "kuaikan"
         ],
