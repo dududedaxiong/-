@@ -6,7 +6,7 @@
             "l6t0k.top"
         ],
         "regex": [
-            "#EXTINF:[\\s\\S]*?004\\.ts"
+            "#EXTINF:[\\s\\S]*?001\\.ts"
         ]
     },
     {
