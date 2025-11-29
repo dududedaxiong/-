@@ -2,7 +2,8 @@
     {
         "name": "16t0k.top",
         "hosts": [
-            "16t0k.top"
+            "16t0k.top",
+            "l6t0k.top"
         ],
         "regex": [
             "(#EXTINF.*?\\n.*?\\n){8}"
