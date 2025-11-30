@@ -31,7 +31,25 @@
         ],
         "interval": 600
     },
-    "cn2.91short.com": {
+    "tktube.com": {
+        "keywords": [],
+        "classes": [
+            "sponsor"
+        ],
+        "selectors": [
+            "iframe#stripchatHeader",
+            "iframe[scrolling=\"no\"]"
+        ],
+        "idsToHide": [
+            "player-container",
+            "top"
+        ],
+        "interval": 600
+    },
+    "_config": {
+        "defaultInterval": 600
+    },
+    "cn\\d+short": {
         "keywords": [
             {
                 "selector": "a>span.van-tab__text",
@@ -53,23 +71,5 @@
         ],
         "idsToHide": [],
         "interval": 600
-    },
-    "tktube.com": {
-        "keywords": [],
-        "classes": [
-            "sponsor"
-        ],
-        "selectors": [
-            "iframe#stripchatHeader",
-            "iframe[scrolling=\"no\"]"
-        ],
-        "idsToHide": [
-            "player-container",
-            "top"
-        ],
-        "interval": 600
-    },
-    "_config": {
-        "defaultInterval": 600
     }
 }
