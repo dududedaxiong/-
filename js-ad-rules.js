@@ -48,12 +48,15 @@
         ],
         "classes": [
             "mda",
-            "notice"
+            "notice",
+            "van-overlay",
+            "van-popup"
         ],
         "selectors": [
+            "div[role=\"dialog\"]",
             "span[style=\"color: gold\"]"
         ],
         "idsToHide": [],
-        "interval": 6000
+        "interval": 1600
     }
 }
