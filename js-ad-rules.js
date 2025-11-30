@@ -9,14 +9,11 @@
             }
         ],
         "classes": [
-            "ad",
             "uni-swiper-slides"
         ],
         "selectors": [
             "ads",
-            "div[style=\"opacity: 1;\"]",
             "i.icon.iconfont.icon-account",
-            "iframe[style=\"position: absolute; display: block; left: 50%; top: 50%; width: 300px; height: 146px; margin: -73px 0px 0px -150px;\"]",
             "uni-view.tabbar-list"
         ],
         "idsToHide": [
