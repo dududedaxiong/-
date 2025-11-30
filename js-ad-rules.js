@@ -51,7 +51,7 @@
             "notice"
         ],
         "selectors": [
-            "div[style=",
+            "div[tabindex=\"0\"]",
             "span[style=\"color: gold\"]"
         ],
         "idsToHide": [],
