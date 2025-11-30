@@ -36,7 +36,6 @@
         ],
         "classes": [
             "mda",
-            "notice",
             "van-popup"
         ],
         "selectors": [
