@@ -21,14 +21,13 @@
         ]
     },
     {
+        "name": "开源棋牌",
         "hosts": [
             "askzycdn",
             "jkunbf",
             "bfikuncdn",
-            "ddcdnbf",
             "bfaskcdn"
         ],
-        "name": "开源棋牌",
         "regex": [
             "#EXTINF.*?\\s+.*?aaaa.*?\\.ts\\s+",
             "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
