@@ -48,22 +48,13 @@
         ],
         "classes": [
             "mda",
-            "notice",
-            "van-popup.van-popup--center.van-dialog.van-dialog--round-button"
+            "notice"
         ],
         "selectors": [
+            "div[style=",
             "span[style=\"color: gold\"]"
         ],
         "idsToHide": [],
         "interval": 600
-    },
-    "/www\\.yy\\d+\\.com/": {
-        "keywords": [],
-        "classes": [],
-        "selectors": [
-            "1"
-        ],
-        "idsToHide": [],
-        "interval": 1600
     }
 }
