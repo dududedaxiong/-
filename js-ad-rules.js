@@ -11,13 +11,11 @@
         "classes": [],
         "selectors": [
             "ads",
-            "i.icon.iconfont.icon-account",
-            "uni-view.tabbar-list"
+            "i.icon.iconfont.icon-account"
         ],
         "idsToHide": [
             "__clb-spot_2090934_fxi_1",
-            "__clb-spot_2090934_mzi_1",
-            "rm-float3"
+            "__clb-spot_2090934_mzi_1"
         ],
         "interval": 600
     },
