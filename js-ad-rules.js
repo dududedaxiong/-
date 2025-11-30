@@ -11,6 +11,7 @@
         "classes": [
             "relative",
             "text-adv-list",
+            "u-swiper",
             "uni-swiper-slides"
         ],
         "selectors": [
