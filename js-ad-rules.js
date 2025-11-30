@@ -67,7 +67,7 @@
             "player-container",
             "top"
         ],
-        "interval": 1600
+        "interval": 600
     },
     "_config": {
         "defaultInterval": 600
