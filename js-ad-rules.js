@@ -39,9 +39,10 @@
             "van-popup"
         ],
         "selectors": [
+            "div.van-popup.van-popup--center.van-dialog.van-dialog--round-button",
             "span[style=\"color: gold\"]"
         ],
         "idsToHide": [],
-        "interval": 600
+        "interval": 1600
     }
 }
