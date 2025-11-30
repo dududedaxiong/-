@@ -11,6 +11,7 @@
         "classes": [
             "relative",
             "text-adv-list",
+            "u-notice__content",
             "u-swiper",
             "uni-swiper-slides"
         ],
