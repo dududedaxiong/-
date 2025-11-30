@@ -8,9 +8,7 @@
                 ]
             }
         ],
-        "classes": [
-            "uni-swiper-slides"
-        ],
+        "classes": [],
         "selectors": [
             "ads",
             "i.icon.iconfont.icon-account",
