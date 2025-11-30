@@ -9,6 +9,7 @@
             }
         ],
         "classes": [
+            "relative",
             "text-adv-list",
             "uni-swiper-slides"
         ],
