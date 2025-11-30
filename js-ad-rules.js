@@ -31,21 +31,6 @@
         ],
         "interval": 600
     },
-    "tktube.com": {
-        "keywords": [],
-        "classes": [
-            "sponsor"
-        ],
-        "selectors": [
-            "iframe#stripchatHeader",
-            "iframe[scrolling=\"no\"]"
-        ],
-        "idsToHide": [
-            "player-container",
-            "top"
-        ],
-        "interval": 600
-    },
     "_config": {
         "defaultInterval": 600
     },
@@ -63,13 +48,22 @@
         ],
         "classes": [
             "mda",
-            "notice"
+            "notice",
+            "van-popup.van-popup--center.van-dialog.van-dialog--round-button"
         ],
         "selectors": [
-            "div[style=\"23356\"]",
             "span[style=\"color: gold\"]"
         ],
         "idsToHide": [],
         "interval": 600
+    },
+    "/www\\.yy\\d+\\.com/": {
+        "keywords": [],
+        "classes": [],
+        "selectors": [
+            "1"
+        ],
+        "idsToHide": [],
+        "interval": 1600
     }
 }
