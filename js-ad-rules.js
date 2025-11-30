@@ -37,7 +37,6 @@
         "classes": [
             "mda",
             "notice",
-            "van-overlay",
             "van-popup"
         ],
         "selectors": [
