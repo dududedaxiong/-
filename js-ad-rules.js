@@ -36,6 +36,7 @@
         ],
         "classes": [
             "mda",
+            "van-overlay",
             "van-popup"
         ],
         "selectors": [
