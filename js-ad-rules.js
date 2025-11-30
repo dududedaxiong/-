@@ -49,7 +49,7 @@
     "_config": {
         "defaultInterval": 600
     },
-    "cn\\d+short": {
+    "/cn\\d+\\.91short\\.com/": {
         "keywords": [
             {
                 "selector": "a>span.van-tab__text",
