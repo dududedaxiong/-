@@ -53,7 +53,6 @@
             "van-popup"
         ],
         "selectors": [
-            "div[role=\"dialog\"]",
             "span[style=\"color: gold\"]"
         ],
         "idsToHide": [],
