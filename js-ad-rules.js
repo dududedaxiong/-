@@ -9,6 +9,7 @@
             }
         ],
         "classes": [
+            "text-adv-list",
             "uni-swiper-slides"
         ],
         "selectors": [
