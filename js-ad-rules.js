@@ -56,6 +56,6 @@
             "span[style=\"color: gold\"]"
         ],
         "idsToHide": [],
-        "interval": 600
+        "interval": 3000
     }
 }
