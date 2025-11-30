@@ -271,6 +271,7 @@
         ]
     },
     {
+        "name": "量非",
         "hosts": [
             "vip.lz",
             "hd.lz",
@@ -281,9 +282,9 @@
             "sekihfde",
             "super.ffzy",
             "fhbbff",
-            "vvip"
+            "vvip",
+            "cdnbf"
         ],
-        "name": "量非",
         "regex": [
             "25.1",
             "18.266",
