@@ -48,13 +48,14 @@
         ],
         "classes": [
             "mda",
-            "notice"
+            "notice",
+            "van-overlay"
         ],
         "selectors": [
             "div[tabindex=\"0\"]",
             "span[style=\"color: gold\"]"
         ],
         "idsToHide": [],
-        "interval": 600
+        "interval": 1600
     }
 }
