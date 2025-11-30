@@ -8,16 +8,21 @@
                 ]
             }
         ],
-        "classes": [],
+        "classes": [
+            "uni-swiper-slides"
+        ],
         "selectors": [
             "ads",
-            "i.icon.iconfont.icon-account"
+            "div.uni-swiper-slides[style=\"inset: 0px;\"]",
+            "i.icon.iconfont.icon-account",
+            "uni-view.news-box",
+            "uni-view.tabbar-list"
         ],
         "idsToHide": [
             "__clb-spot_2090934_fxi_1",
             "__clb-spot_2090934_mzi_1"
         ],
-        "interval": 600
+        "interval": 1600
     },
     "_config": {
         "defaultInterval": 600
