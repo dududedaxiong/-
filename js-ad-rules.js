@@ -69,7 +69,7 @@
         "idsToHide": [],
         "interval": 1600
     },
-    "avtoday": {
+    "avtoday.io": {
         "keywords": [
             {
                 "selector": "li>a",
