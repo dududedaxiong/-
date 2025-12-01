@@ -55,7 +55,9 @@
         "idsToHide": [],
         "interval": 1600
     },
-    "_exclude": [],
+    "_exclude": [
+        "grok.com"
+    ],
     "/www\\.yy\\d+\\.com/": {
         "keywords": [],
         "classes": [],
