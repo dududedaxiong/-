@@ -80,7 +80,7 @@
             }
         ],
         "classes": [
-            "thumbnail.col"
+            "video-card"
         ],
         "selectors": [
             "div[style=\"margin-bottom: -20px;\"]",
