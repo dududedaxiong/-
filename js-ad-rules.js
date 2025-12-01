@@ -57,6 +57,7 @@
         "interval": 1600
     },
     "_exclude": [
+        "127.0.0.1",
         "grok",
         "hohai"
     ],
