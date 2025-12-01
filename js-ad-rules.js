@@ -77,6 +77,12 @@
                     "更多免费精彩视频👉TG频道 @AVToday_channel",
                     "商务合作 客服👉 @avtoday_cs"
                 ]
+            },
+            {
+                "selector": "div.thumbnail.col>div.video-title>a",
+                "keywords": [
+                    "[廣告] 免费直播"
+                ]
             }
         ],
         "classes": [],
