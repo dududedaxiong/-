@@ -54,5 +54,15 @@
         ],
         "idsToHide": [],
         "interval": 1600
+    },
+    "_exclude": [],
+    "/www\\.yy\\d+\\.com/": {
+        "keywords": [],
+        "classes": [],
+        "selectors": [
+            "2"
+        ],
+        "idsToHide": [],
+        "interval": 1600
     }
 }
