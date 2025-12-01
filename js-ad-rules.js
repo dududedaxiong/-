@@ -79,9 +79,13 @@
                 ]
             }
         ],
-        "classes": [],
+        "classes": [
+            "thumbnail.col"
+        ],
         "selectors": [
-            "div[style=\"margin-bottom: -20px;\"]"
+            "div[style=\"margin-bottom: -20px;\"]",
+            "div[style=\"padding-top: 10px; padding-bottom: 100px; \"]",
+            "footer.text-muted.py-5"
         ],
         "idsToHide": [],
         "interval": 1600
