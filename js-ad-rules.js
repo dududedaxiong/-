@@ -79,10 +79,9 @@
                 ]
             }
         ],
-        "classes": [
-            "video-card"
-        ],
+        "classes": [],
         "selectors": [
+            "div.video-card[style=\"background-color: #000;\"]",
             "div[style=\"margin-bottom: -20px;\"]",
             "div[style=\"padding-top: 10px; padding-bottom: 100px; \"]",
             "footer.text-muted.py-5"
