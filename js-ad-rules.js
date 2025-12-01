@@ -57,7 +57,7 @@
         "interval": 1600
     },
     "_exclude": [
-        "grok.com",
+        "grok",
         "hohai"
     ],
     "/www\\.yy\\d+\\.com/": {
@@ -65,6 +65,25 @@
         "classes": [],
         "selectors": [
             "2"
+        ],
+        "idsToHide": [],
+        "interval": 1600
+    },
+    "avtoday": {
+        "keywords": [
+            {
+                "selector": "li>a",
+                "keywords": [
+                    "更多免费精彩视频👉TG频道 @AVToday_channel",
+                    "商务合作 客服👉 @avtoday_cs"
+                ]
+            }
+        ],
+        "classes": [
+            "container-xxl"
+        ],
+        "selectors": [
+            "div[style=\"margin-bottom: -20px;\"]"
         ],
         "idsToHide": [],
         "interval": 1600
