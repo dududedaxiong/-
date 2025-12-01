@@ -20,7 +20,8 @@
             "div.uni-swiper-slides[style=\"inset: 0px;\"]",
             "i.icon.iconfont.icon-account",
             "uni-view.news-box",
-            "uni-view.tabbar-list"
+            "uni-view.tabbar-list",
+            "uni-view[style=\"display: flex; flex-wrap: wrap; justify-content: space-between;\"]"
         ],
         "idsToHide": [
             "__clb-spot_2090934_fxi_1",
@@ -56,7 +57,8 @@
         "interval": 1600
     },
     "_exclude": [
-        "grok.com"
+        "grok.com",
+        "hohai"
     ],
     "/www\\.yy\\d+\\.com/": {
         "keywords": [],
