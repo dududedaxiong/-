@@ -79,9 +79,7 @@
                 ]
             }
         ],
-        "classes": [
-            "container-xxl"
-        ],
+        "classes": [],
         "selectors": [
             "div[style=\"margin-bottom: -20px;\"]"
         ],
