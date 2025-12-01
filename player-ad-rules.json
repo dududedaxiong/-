@@ -112,13 +112,14 @@
         ]
     },
     {
+        "name": "熊猫视频",
         "hosts": [
             "seu6tu",
             "535fs",
             "dzlndygh",
-            "hdvjl"
+            "hdvjl",
+            "xsmj"
         ],
-        "name": "熊猫视频",
         "regex": [
             "#EXTINF:[\\s\\S]*?encrypt0005\\.ts"
         ]
