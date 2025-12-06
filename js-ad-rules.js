@@ -110,5 +110,19 @@
         "selectors": [],
         "idsToHide": [],
         "interval": 1600
+    },
+    "[看看]": {
+        "keywords": [],
+        "classes": [
+            "notice",
+            "u-notice__content"
+        ],
+        "selectors": [
+            "uni-view.cooperation",
+            "uni-view.tabbar-list",
+            "uni-view.text-adv-list"
+        ],
+        "idsToHide": [],
+        "interval": 1600
     }
 }
