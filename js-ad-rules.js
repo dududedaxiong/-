@@ -95,5 +95,15 @@
         ],
         "idsToHide": [],
         "interval": 1600
+    },
+    "[看看]": {
+        "keywords": [],
+        "classes": [],
+        "selectors": [
+            "uni-view.text-adv-list",
+            "uni-view[class=\"cooperation\"]"
+        ],
+        "idsToHide": [],
+        "interval": 1600
     }
 }
