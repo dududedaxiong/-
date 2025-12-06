@@ -118,7 +118,8 @@
             "news-box",
             "relative",
             "square-advertisement",
-            "u-notice-bar"
+            "u-notice-bar",
+            "u-popup__content"
         ],
         "selectors": [
             "uni-view.cooperation",
