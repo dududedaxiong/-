@@ -96,15 +96,18 @@
         "idsToHide": [],
         "interval": 1600
     },
-    "[7676]": {
-        "keywords": [],
-        "classes": [
-            "cooperation"
+    "[19j/img]": {
+        "keywords": [
+            {
+                "selector": "li>a>p",
+                "keywords": [
+                    "- VIP -",
+                    "站长说"
+                ]
+            }
         ],
-        "selectors": [
-            "uni-view.cooperation",
-            "uni-view.text-adv-list"
-        ],
+        "classes": [],
+        "selectors": [],
         "idsToHide": [],
         "interval": 1600
     }
