@@ -96,7 +96,7 @@
         "idsToHide": [],
         "interval": 1600
     },
-    "[6767]": {
+    "[7676]": {
         "keywords": [],
         "classes": [
             "cooperation"
