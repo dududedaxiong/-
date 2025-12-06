@@ -98,7 +98,9 @@
     },
     "[6767]": {
         "keywords": [],
-        "classes": [],
+        "classes": [
+            "cooperation"
+        ],
         "selectors": [
             "uni-view.cooperation",
             "uni-view.text-adv-list"
