@@ -96,7 +96,7 @@
         "idsToHide": [],
         "interval": 1600
     },
-    "[永久官网]": {
+    "[6767]": {
         "keywords": [],
         "classes": [],
         "selectors": [
