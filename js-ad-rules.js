@@ -114,8 +114,9 @@
     "[看看]": {
         "keywords": [],
         "classes": [
-            "notice",
-            "u-notice__content"
+            "relative",
+            "square-advertisement",
+            "u-notice-bar"
         ],
         "selectors": [
             "uni-view.cooperation",
