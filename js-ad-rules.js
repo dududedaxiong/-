@@ -114,6 +114,8 @@
     "[看看]": {
         "keywords": [],
         "classes": [
+            "header-avatar",
+            "news-box",
             "relative",
             "square-advertisement",
             "u-notice-bar"
