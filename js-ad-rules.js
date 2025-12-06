@@ -100,8 +100,8 @@
         "keywords": [],
         "classes": [],
         "selectors": [
-            "uni-view.text-adv-list",
-            "uni-view[class=\"cooperation\"]"
+            "uni-view.cooperation",
+            "uni-view.text-adv-list"
         ],
         "idsToHide": [],
         "interval": 1600
