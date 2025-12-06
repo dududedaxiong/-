@@ -96,7 +96,7 @@
         "idsToHide": [],
         "interval": 1600
     },
-    "[看看]": {
+    "永久官网": {
         "keywords": [],
         "classes": [],
         "selectors": [
